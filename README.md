@@ -47,7 +47,7 @@ Base URL: `http://localhost:3000/api/v1`
 ## 📦 Instalación
 
 1. Cloná el repositorio:
-   git clone https://github.com/MatinSalomoncurso-de-backend-platzi.git
+   git clone https://github.com/MatinSalomon/curso-de-backend-platzi.git
    
 2. Entrá al directorio:
     cd curso-de-backend-platzi
